@@ -1,1 +1,2 @@
+Hello this is the new alien plot /	
 Hi this is a demo of git and github by Dr.Angela Yu
